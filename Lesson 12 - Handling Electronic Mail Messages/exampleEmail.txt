@@ -1,0 +1,5 @@
+From: kobaltkween@gmail.com
+To: kobaltkween@gmail.com	
+Subject: Handling Emails with Python
+
+This email was sent using Python's smtplib!
